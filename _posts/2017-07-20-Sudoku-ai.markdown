@@ -1,0 +1,57 @@
+---
+layout: post
+title: Sudoku Solving AI Agent
+date: 2017-07-20
+description: solving sudoku puzzles with ai
+
+---
+**NOTE**: This is an example import from my peronal blog to show off the theme and some projects I have done in the past. It is not a new post.
+
+Back in June, Udacity announced that they would be releasing the first project from the [Artificial Intellignce Nanodegree][udacity-ai] program for free for one week. Being as incredibly interested in AI as I was, I pounced on the opportunity to test out one of Udacity's premier programs. The goal of this post is to share my thoughts on the project, along with helping me reflect on what I learned.
+
+
+
+
+
+#### But first, the finished project!
+Before I move into the review, here's a sample of the final solution, visualized using pygame:
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/udacity-sudoku/sudoku-solved-long.gif">
+</div>
+
+The free course preview was composed of 3 lessons. The first lesson was more of an ad for the full program than anything else, while the second lesson was devoted to setting up the programming enviroment (Udacity's programs use [Anaconda][anaconda] as an enviroment manager). The fun stuff begins in lesson 3. The lesson begins with a brief overview of sudoku and some of its rules. It then throws you a sudoku puzzle and asks you to solve it with a pen and paper (this part is technically optional). I've always been a fan of how Udacity throws you a problem and asks you how you would solve it with your existing knowledge. I've always found prompts like this to be a great way to actually dig into the problem and try to figure out my own strategies and tricks for solving the problem, and then comparing them to the solutions Udacity suggests. If anything, it gets me thinking and interested in the problem.
+
+<br />
+After giving you the solution, there's a brief overview on the naming conventions and how to set up the board, before you actually code the board in python. I like how brief this section is, helping you abstract the board and quickly get it out of the way so that you can quickly move onto the more interesting parts. The puzzle is one giant dictionary, with the keys representing the coordinate values of the box in the puzzle, and value being a string of all possible values the box can. Values with only one digit signify that that box has been solved.
+
+<br />
+Next is the fun stuff, the actual game playing agent. Udacity breaks this part down into 3 distinct strategies (which you later expand upon in the final version). The first strategy is Elimination, and its pretty simple. Basically, if a box has a solved value, than none of its peers (boxes in the same 3x3 grid or vertical and horizontal axis's) can have the same value. Below is a visualiztion of this strategy:
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/udacity-sudoku/elimination.jpg">
+</div>
+In this image, all the blue boxes are peers to the box with a 7. None of these boxes can have a 7 in them. Implementing elimination was fairly straight forward; first iterate over all boxes in the puzzle and find the boxes with only one value in them (meaning they have been already solved). Next, iterate through all the peers of that box and eliminate the digit that has already been solved. As part of the code Udacity gives you, theres already a list of all possible peers for each box, allowing you to focus solely on implementing the elimination strategy, which I liked.
+
+<br />
+Strategy 2 is called Only Choice, and it's also pretty straightforward. In this strategy, if there is only one box within a unit (a unit is a box's group of peers) that would allow a certain value, that box's must be that value. This strategy is better visualized then in my opinion:
+<div class="img_row">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/udacity-sudoku/only-choice.jpg">
+</div>
+
+In this example, only the 3x3 grid is shown for simplicity. Five of the boxes have already been solved, while the other four boxes have been filled with possible values that can go within the box. The top right box is the only box that has 1 as a possible value. Because no other boxes can have the value 1, the top right box must be 1 then.
+
+<br />
+With both of these strategies down, they can now be combined into a loop that will be able to solve most simple puzzles. More complex puzzles will get stuck however. This is where strategy 3 gets called. The Search strategy goes through all the unsolved boxes in the puzzle, and finds the box with the fewest number of possible values, preferably 2. Once it finds that box, it picks one of the possible values, plugs it into the box, then recursively attempts to solve the puzzle with the choosen value. If the puzzle is returned solved, then we have an answer. However, if the puzzle fails to solve with the chosen value, the next possible value is inserted, and the puzzle is once again attempted. This strategy is called Search because each recursive call generates a tree with branches for each of the possible values that a box can have. Then, each branch is "searched" for a solution. In my opinion, this strategy could have used a better name, like the Recursive Guess strategy or something more expressive. However, I assume Udacity choose this name to get you used to thinking of AI problems in terms of data structures, like graphs, and a tree structure fits this problem perfectly.
+
+<br />
+So far, the project has been pretty guided and introductory. For the next part, Udacity gives you two new objectives, and has you solve them on your own. The first objective is implementing a new strategy called Naked Twins, and the second objective has you modifying your existing code to allow for diagnol sudoku puzzles to be solved. I really enjoyed this part of the project most. I think Udacity does a great job of giving you enough background information to not feel lost, yet still provide a challenging problem that really gets you thinking. I found this part of the project to have the perfect mix of difficulty yet still being possible to solve after some white boarding. I won't go into too much detail in this part, but if you're interested in my solution, you [can check out my solution on github here][github-repo].
+
+<br />
+Over all, I was pretty impressed by Udacity's offerings with the first project from the AI nanodegree program. I enjoyed the difficulty level of the project (challenging, yet enough info so that I never felt lost). The project definitely peeked my curiosity in AI in general. Since finishing the project, I have enrolled and finished Coursera's Machine Learning course by Andrew Ng (highly recomend this class), and plan on taking Udacity's intro Machine Learning and AI courses too. I'm also working on my application to the August cohort of the AI nanodegree program. There's not much information out there from students on the program (compared to all the reviews and blog posts on their self driving car program), but based off my experience with this preview and some of Udacity's other courses, I have the feeling that the program is well worth the cost.
+
+
+
+
+[udacity-ai]: https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889
+[anaconda]: https://anaconda.org
+[github-repo]: https://github.com/seb-patron/AIND-Sudoku
