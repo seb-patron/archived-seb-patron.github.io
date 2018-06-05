@@ -2,7 +2,7 @@
 layout: about
 title: cv
 permalink: /cv/
-description: <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a>. data science enthusiast. entrepreneur. Learner. Etc.
+description: <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a>. data science enthusiast. entrepreneur. 
 profile:
   align: right
   image: prof-pic-puppy.jpeg
@@ -46,7 +46,7 @@ profile:
 <h4>Experience</h4>
 
 **Data Scientist, SpearmintLove; Tempe, AZ — August 2017-Present**
-<br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in realtime
+<br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in realtime.
 
 **Web Developer Intern, MyGovUSA; Tempe, AZ — May 2017-August 2017**
 <br>Developed and helped launch MyGovUSA’s website using Jekyll and Github Pages. Also helped create and develop a mobile strategy and designed new SQL based database for company records.
