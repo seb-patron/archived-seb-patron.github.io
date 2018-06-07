@@ -1,4 +1,4 @@
-@media only screen and (min-width: 801px)  {
+@media only screen and (min-width: 813px)  {
 .project {
     box-sizing: border-box;
     float: left;
@@ -58,7 +58,150 @@
 }
 }
 
-@media only screen and (max-width: 800px)  {
+@media only screen and (max-width: 769px) and (min-width: 382px)  {
+     .project {
+         box-sizing: border-box;
+         float: left;
+         height: 250px;
+         padding: 10px;
+         vertical-align: middle;
+         width: 100%;
+         margin-left: 15%;
+         
+     
+         .thumbnail {
+             overflow: hidden;
+             height: 200px;
+             width: 100%;
+             display: flex;
+               justify-content: center;
+     
+             img {
+                 height: auto;
+                 position: relative;
+                    //  left: -15%;
+                    //  top: -5%;
+                 width: 350px;
+             }
+     
+             a {
+                 float: left;
+                 height: 230px;
+                 position: relative;
+                 width: 100%;
+     
+                 span {
+                     display: none;
+                     position: absolute;
+                     top: 0;
+                    //  left: 0;
+                     bottom: 0;
+                     margin-left:7%;
+                    //  right: 0;
+                    //  padding: 1.5em;
+                     color: $grey-color-light;
+                    //  padding: 40px;
+                     text-align: center;
+
+     
+                     h1 {
+                         background: rgba(0,0,0,0.4);
+                         
+                         font-size: 1.5rem;
+                         // margin: 0%;
+                     }
+     
+                     p {
+                         color: $grey-color-light;
+                         display: none;
+                     }
+                 }
+     
+                 
+                     span {
+                         display: block;
+                     }
+                 
+             }
+         }
+     }
+}
+
+
+
+
+@media only screen and (max-width: 381px) and (min-width: 321px)  {
+     .project {
+         box-sizing: border-box;
+         float: left;
+         height: 250px;
+         padding: 10px;
+         vertical-align: middle;
+         width: 100%;
+         
+     
+         .thumbnail {
+             overflow: hidden;
+             height: 200px;
+             width: 100%;
+             display: flex;
+               justify-content: center;
+     
+             img {
+                 height: auto;
+                 position: relative;
+                     left: -15%;
+                    //  top: -5%;
+                 width: 500px;
+             }
+     
+             a {
+                 float: left;
+                 height: 230px;
+                 position: relative;
+                 width: 100%;
+     
+                 span {
+                     display: none;
+                     position: absolute;
+                     top: 0;
+                    //  left: 0;
+                     bottom: 0;
+                     margin-left: 20%;
+                    //  right: 0;
+                    //  padding: 1.5em;
+                     color: $grey-color-light;
+                    //  padding: 40px;
+                     text-align: center;
+                     
+     
+                     h1 {
+                         background: rgba(0,0,0,0.4);
+                         
+                         font-size: 1.5rem;
+                         // margin: 0%;
+                     }
+     
+                     p {
+                         color: $grey-color-light;
+                         display: none;
+                     }
+                 }
+     
+                 
+                     span {
+                         display: block;
+                     }
+                 
+             }
+         }
+     }
+}
+
+
+
+
+@media only screen and (max-width: 321px)  {
      .project {
          box-sizing: border-box;
          float: left;
