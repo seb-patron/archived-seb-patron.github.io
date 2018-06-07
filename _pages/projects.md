@@ -23,6 +23,7 @@ description: A growing collection of your cool projects.
         </span>
         </a>
     </div>
+    <h5>{{ project.title }}</h5>
 </div>
 {% else %}
 
@@ -41,6 +42,7 @@ description: A growing collection of your cool projects.
         </span>
         </a>
     </div>
+    <h5>{{ project.title }}</h5>
 </div>
 
 {% endif %}

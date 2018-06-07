@@ -5,7 +5,7 @@ permalink: /skills/
 description: A growing collection of some of the skills I have aquired.
 ---
 
-{% for project in site.projects %}
+{% for project in site.skills %}
 
 {% if project.redirect %}
 <div class="project">
@@ -23,6 +23,7 @@ description: A growing collection of some of the skills I have aquired.
         </span>
         </a>
     </div>
+    <h5>{{ project.title }}</h5>
 </div>
 {% else %}
 
@@ -41,6 +42,7 @@ description: A growing collection of some of the skills I have aquired.
         </span>
         </a>
     </div>
+    <h5>{{ project.title }}</h5>
 </div>
 
 {% endif %}
