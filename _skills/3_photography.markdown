@@ -5,7 +5,7 @@ description: a project with a background image
 img: /assets/img/skills/photography/icon-boat.jpg
 ---
 
-Images taken with a Sony A7, Ricoh GR II, or iPhone SE.
+Images taken with a Sony A7, Ricoh GR II, or iPhone SE. Click or tap on an image to make it larger.
 
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/modal.css">
 
