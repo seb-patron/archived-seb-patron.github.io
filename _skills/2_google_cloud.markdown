@@ -10,7 +10,7 @@ I am currently working towards becoming a Google Cloud Certified Professional Da
 Below are some of my certifications and projects I have done in the meantime..
 
 #### Exploring ​and ​Preparing ​Data with BigQuery Certification
-###### Issued by: Google Cloud Training
+##### Issued by: Google Cloud Training
 ##### Completed: Monday, June 4, 2018
 ##### Link: [coursera][exploring-preparing-data-google-cloud]
 ##### PDF: <a href="{{ site.baseurl }}/assets/img/skills/google-cloud/exploring-preparing-data-bigquery.pdf">exploring-preparing-data-bigquery.pdf</a>
