@@ -83,5 +83,5 @@ Images taken with a Sony A7, Ricoh GR II, or iPhone SE.
     <img class="col two" src="{{ site.baseurl }}/assets/img/skills/photography/friends-trip.jpg" alt="" title="it sure rained alot!"/>
 </div>
 <div class="col three caption">
-    Costa Rica.
+    Some foolery with my friends.
 </div>
