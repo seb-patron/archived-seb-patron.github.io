@@ -1,7 +1,7 @@
 ---
 layout: page
 title: photography
-description: a project with a background image
+description: my personal photography
 img: /assets/img/skills/photography/icon-boat.jpg
 ---
 
