@@ -7,6 +7,8 @@ img: /assets/img/skills/photography/icon-boat.jpg
 
 Images taken with a Sony A7, Ricoh GR II, or iPhone SE.
 
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/modal.css">
+
 <div class="img_row">
     <img class="col three" src="{{ site.baseurl }}/assets/img/skills/photography/costa-rica-blog-1.jpg" alt="" title="costa rica pano"/>
 </div>
@@ -79,9 +81,59 @@ Images taken with a Sony A7, Ricoh GR II, or iPhone SE.
 </div>
 
 <div class="img_row">
-    <img class="col one" src="{{ site.baseurl }}/assets/img/skills/photography/beach-mack.jpg" alt="" title="another Costa Rican pig!"/>
-    <img class="col two" src="{{ site.baseurl }}/assets/img/skills/photography/friends-trip.jpg" alt="" title="it sure rained alot!"/>
+    <img class="col one" id="myModal myImg" src="{{ site.baseurl }}/assets/img/skills/photography/beach-mack.jpg" alt="" title="another Costa Rican pig!"/>
+    <img class="col two" id="myModal myImg" data-toggle="modal" data-target="#myModal" src="{{ site.baseurl }}/assets/img/skills/photography/friends-trip.jpg" alt="" title="it sure rained alot!"/>
 </div>
-<div class="col three caption">
+<div class="col three caption" id="caption">
     Some foolery with my friends.
 </div>
+
+
+
+
+<div id="myModal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body image-container">
+                <img class="img-responsive" src="" />
+            </div>
+            <div class="modal-footer">
+                <!-- <button type="button" class="btn btn-default" data-dismiss="modal">Close</button> -->
+                <span class="close">&times;</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script>
+     $(document).ready(function () {
+    $('img').on('click', function () {
+        var image = $(this).attr('src');
+     //    alert(image);
+     $(".img-responsive").attr("src", image);
+     $('#myModal').show()
+     console.log("before the  function")
+     //    $('#myModal').click('show.bs.modal', function () {
+     //         console.log('this function got called')
+     //        $(".img-responsive").attr("src", image);
+     //    });
+    });
+});
+
+$('.close').on('click', function () {
+    $('#myModal').hide()
+})
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == $('#myModal').is(":visible")) {
+        $('#myModal').hide()
+    }
+}
+</script>
