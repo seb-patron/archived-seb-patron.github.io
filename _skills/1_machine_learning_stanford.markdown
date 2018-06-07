@@ -7,7 +7,7 @@ img: /assets/img/skills/machine-learning/ml-icon.png
 
 Machine Learning is one of my passions and sub focuses within data science. I like to spend my free time reading up on new algorithms and practicing my skills on public datasets.
 
-Below are some of my certifications and projecsts I have done within machine learning.
+Below are some of my certifications and projects I have done within machine learning.
 
 #### Machine Learning by Stanford University Certificate
 ##### Completed: Monday, July 17, 2017
