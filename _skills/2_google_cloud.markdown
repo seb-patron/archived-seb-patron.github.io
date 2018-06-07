@@ -10,7 +10,7 @@ I am currently working towards becoming a Google Cloud Certified Professional Da
 Below are some of my certifications and projects I have done in the meantime..
 
 #### Exploring ​and ​Preparing ​Data with BigQuery Certification
-#### Issued by: Google Cloud Training
+###### Issued by: Google Cloud Training
 ##### Completed: Monday, June 4, 2018
 ##### Link: [coursera][exploring-preparing-data-google-cloud]
 ##### PDF: <a href="{{ site.baseurl }}/assets/img/skills/google-cloud/exploring-preparing-data-bigquery.pdf">exploring-preparing-data-bigquery.pdf</a>
@@ -19,7 +19,7 @@ Google Cloud Training's Exploring ​and ​Preparing ​Data with BigQuery Cert
 
 
 #### Creating New BigQuery Datasets and Visualizing Insights Certification
-#### Issued by: Google Cloud Training
+##### Issued by: Google Cloud Training
 ##### Completed: Tuesday, June 5, 2018
 ##### Link: [coursera][creating-bigquery-datasets-visualizations]
 ##### PDF: <a href="{{ site.baseurl }} /assets/img/skills/google-cloud/exploring-creating-biquery-datasets.pdf">creating-insights-visualisation.pdf</a>
@@ -27,7 +27,7 @@ Google Cloud Training's Exploring ​and ​Preparing ​Data with BigQuery Cert
 Google Cloud Training's Creating New BigQuery Datasets and Visualizing Insights Certification covers ingesting external datasets into BigQuery, visualizing insights in Google Data Studio, and creating JOINs and UNIONs across multiple datasets in BigQuery.
 
 #### Achieving Advanced Insights with BigQuery Certification
-#### Issued by: Google Cloud Training
+##### Issued by: Google Cloud Training
 ##### Completed: Wednesday, June 6, 2018
 ##### Link: [coursera][achieving-advanced-insights]
 ##### PDF: <a href="{{ site.baseurl }} /assets/img/skills/google-cloud/achieving-advanced-insights.pdf">achieving-advanced-insights.pdf</a>
