@@ -13,7 +13,7 @@ Over the past couple of weeks, I've been doing a review of statistics to help me
 #### First, a Review of Bayesian Statistics
 Bayesian statistics is basically applying our own personal perspective (or knowledge of additional variables) to a statistics problem. A simple explanation of Bayes Rule is that its a [formula that tells us how we can update probabilties when given evidence] [bayes-def].
 <div class="">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/intercausal/bayes-rule-simple.png">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/intercausal/Bayes-Rule-Simple.png">
 </div>
 
 #### Conditional Probability
