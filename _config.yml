@@ -18,11 +18,11 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: seb-patron # your GitHub user name
 twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+linkedin_username: sebastian-patron-3b523998 # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  The best way to reach me is by email at <a href="mailto:spatrons@asu.edu?Subject=Hello%20again><i class="fas fa-envelope"></i> spatrons@asu.edu</a>. Or check out my github for some sample work.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
