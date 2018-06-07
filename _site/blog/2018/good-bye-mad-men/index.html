@@ -23,7 +23,8 @@
 
   <div class="wrapper">
 
-    <span class="site-title">
+     <!-- code for redirect on site-title is in footer so that it loads after site-title -->
+    <span class="site-title" id="site-title-id">
         
         <strong>Sebastian</strong> Patron
     </span>
@@ -167,6 +168,15 @@ For some, these statistics are cause for alarm. I vividly remember sitting in on
 
     
   </div>
+
+  <script>
+          var siteTitle = document.getElementById('site-title-id');
+          // siteTitle.addEventListener('click', function() { alert("hello"); }, false);
+          siteTitle.onclick = function() {
+               window.location.href = 'http://localhost:4000/';
+             return false;
+         };
+     </script>
 
 </footer>
 

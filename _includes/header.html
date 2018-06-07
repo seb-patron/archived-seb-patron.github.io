@@ -2,7 +2,8 @@
 
   <div class="wrapper">
 
-    <span class="site-title">
+     <!-- code for redirect on site-title is in footer so that it loads after site-title -->
+    <span class="site-title" id="site-title-id">
         {% assign name = site.name | split: ' ' %}
         <strong>{{ name | first }}</strong> {{ name | last }}
     </span>

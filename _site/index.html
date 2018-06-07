@@ -23,7 +23,8 @@
 
   <div class="wrapper">
 
-    <span class="site-title">
+     <!-- code for redirect on site-title is in footer so that it loads after site-title -->
+    <span class="site-title" id="site-title-id">
         
         <strong>Sebastian</strong> Patron
     </span>
@@ -153,7 +154,7 @@
   </span>
 
   <div class="col three caption">
-    The best way to reach me is by email at <a href="mailto:spatrons@asu.edu?Subject=Hello%20again><i class="fas fa-envelope"></i> spatrons@asu.edu</a>. Or check out my github for some sample work.
+    The best way to reach me is by email at <a href="mailto:spatrons@asu.edu?Subject=Hello%20again><i class="fas fa-envelope"></i> spatrons@asu.edu</a>. Or check out my <i class="fab fa-github"></i> <a href="https://github.com/seb-patron">github</a></p> for some sample work.
 
   </div>
 </div>
@@ -173,6 +174,15 @@
 
     
   </div>
+
+  <script>
+          var siteTitle = document.getElementById('site-title-id');
+          // siteTitle.addEventListener('click', function() { alert("hello"); }, false);
+          siteTitle.onclick = function() {
+               window.location.href = 'http://localhost:4000/';
+             return false;
+         };
+     </script>
 
 </footer>
 

@@ -8,4 +8,13 @@
     {% endif %}
   </div>
 
+  <script>
+          var siteTitle = document.getElementById('site-title-id');
+          // siteTitle.addEventListener('click', function() { alert("hello"); }, false);
+          siteTitle.onclick = function() {
+               window.location.href = '{{ site.baseurl | prepend: site.url }}/';
+             return false;
+         };
+     </script>
+
 </footer>
