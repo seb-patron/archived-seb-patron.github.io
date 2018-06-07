@@ -11,7 +11,7 @@ comments: true
     <img class="col three" src="{{ site.baseurl }}/assets/img/math-men/don-draper-1024x683.jpg">
 </div>
 
-37 floors high on the corner of 1271 Avenue of the Americas, New York a group of powerful men sit around a beautiful mahogany table. Dressed in the most fashionable suits of the era, they're the ideal of a successful man in the 60's.
+37 floors high on the corner of 1271 Avenue of the Americas, New York, a group of powerful men sit around a  mahogany table. Dressed in the most fashionable suits of the era, they're the ideal of a successful man in the 60's.
 
 One of them, Don Draper, [speaks to the group][don-draper-happiness]:
 
@@ -26,7 +26,7 @@ you're doing is OK. You are OK.
 
 {% endhighlight %}
 
-Oh how wrong could he be.
+He could not be more wrong.
 
 #### where did the mad men go?
 
