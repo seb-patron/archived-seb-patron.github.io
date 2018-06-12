@@ -32,8 +32,8 @@ profile:
      </p>
 
       <p><h4>languages:</h4> 
-      <strong>English</strong>: Proficient (<a href"https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">C2</a>)
-      <br> <strong>Spanish</strong>: Proficient (<a href"https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">C1</a>)
+      <strong>English</strong>: Proficient (<a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">C2</a>)
+      <br> <strong>Spanish</strong>: Proficient (<a href="https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages">C1</a>)
      <br>
 
       <p><h4>interests:</h4>
