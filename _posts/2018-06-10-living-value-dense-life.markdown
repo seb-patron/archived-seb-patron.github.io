@@ -81,6 +81,7 @@ The simplist (haha) of my goals. Simple reminds me to always keep my life simple
 #### Progress
 This one ties very closely with goals. Goals are what I set for myself to acomplish, while progress is me taking steps towards acomplishing them. Everyday I hope to make progress towards being better than the day before. I have pretty simple system for checking this: everyday I try to ask myself, am I physically, mentally, and spiritually better than I was the day before? If not, what changes should I be making? If too many days in a row pass with me answering no to this question, I know I need to make a drastic change in my life.
 
+Some of these values are the same as my original; others are pretty new. I'm optimistic that this set can last me a while, but I also won't rule out any potential changes I can make. A solid set of values can improve one's life, and I can't wait to see where these values take me.
 
 
 
