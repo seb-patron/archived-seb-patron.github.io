@@ -30,7 +30,7 @@ Dr. Heywood's class was challenging. It was also one of the most rewarding class
 
 #### what exactly is a value dense life?
 
-Of course, before one can begin living a value dense life, it helps to know exactly what a value filled life is. And that starts with what exactly a value is. This could be a long, long question that is worthy of its own blog post. Instead, I'll cheat and use author and philosopher [Ayn Rand's][ayn-rand-bio] objectivism answer: Value can only exist if there is something to gain or lose. Therefor, life is value because one chooses to live. Life has value because there is something to gain, and quite obviously there is something to lose (one's life). 
+Of course, before one can begin living a value dense life, it helps to know exactly what a value filled life is. And that starts with what exactly a value is. This could be a long, long question that is worthy of its own blog post. Instead, I'll cheat and use author and philosopher [Ayn Rand's][ayn-rand-bio] objectivism answer: Value can only exist if there is something to gain or lose. 
 
 A value is a way of determining what one should be doing to maximize the gains they want and avoid the losses they don't want. Values, in short, help us determine where to put our energy and focus so that we can gain (happiness, peace, money, etc) and avoid loss (health, freedom, etc).
 
@@ -79,7 +79,7 @@ Just like a good value system, I believe goals are critical towards making progr
 The simplist (haha) of my goals. Simple reminds me to always keep my life simple. To reduce the amount of items and responsibilities I have so that I can focus only on the things that matter. Life is pretty simple, and we have a nasty habit of overcomplicating it. So keep it stupid simple.
 
 #### Progress
-This one ties very closely with goals. If goals are what I set for myself, then progress is me valuing taking steps towards acomplishing them. Everyday I hope to make progress towards being better than the day before. I have pretty simple system for checking this: everyday I try to ask myself, am I physically, mentally, and spiritually better than I was the day before? If not, what changes should I be making? If too many days in a row pass with me answering no to this question, I know I need to make a drastic change in my life.
+This one ties very closely with goals. Goals are what I set for myself to acomplish, while progress is me taking steps towards acomplishing them. Everyday I hope to make progress towards being better than the day before. I have pretty simple system for checking this: everyday I try to ask myself, am I physically, mentally, and spiritually better than I was the day before? If not, what changes should I be making? If too many days in a row pass with me answering no to this question, I know I need to make a drastic change in my life.
 
 
 
