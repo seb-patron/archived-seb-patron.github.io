@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Sebastian Patron
-description: <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a>. data science enthusiast. entrepreneur. 
+description: an enthusiast in life. data science experimenter. entrepreneur. 
 
 profile:
   align: right
