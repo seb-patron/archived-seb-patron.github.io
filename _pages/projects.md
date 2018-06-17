@@ -1,10 +1,13 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /project/
 description: A growing collection of your cool projects.
 ---
-
+<!-- redirect to the projects page -->
+<script>
+window.location.replace("{{site.url}}/projects");
+</script>
 {% for project in site.projects %}
 
 {% if project.redirect %}
