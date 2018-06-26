@@ -162,3 +162,7 @@ If you followed these directions correctly, you should have ended with something
 <div class="col three caption">
     DISCLAIMER: Your results may vary family.
 </div>
+
+Wow. You did it family! And what a very fresh looking pizza! There's only one instruction left:
+
+Enjoy!
