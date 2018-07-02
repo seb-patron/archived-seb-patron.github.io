@@ -1,0 +1,27 @@
+---
+layout: post
+title:  Van Gogh
+date: 2018-07-01 21:01:00
+description: Almond Blossom is life changing
+---
+This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love while their. With a painting.
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom.jpg" alt="" title="Mt. Humphreys, Flagstaff Arizona"/>
+</div>
+<div class="col three caption">
+    Almond Blossom by Vinvent Van Gogh.
+</div>
+
+I may have fallen too in love. Because I ended buying this painting for my dog to wear.
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/dog-vest.jpg" alt="" title="Mt. Humphreys, Flagstaff Arizona"/>
+</div>
+<div class="col three caption">
+    Ok more like a dog vest.
+</div>
+
+While buying it, I got asked an important question by the cashier:
+
+what kind of dog do you have?
