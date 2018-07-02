@@ -40,7 +40,7 @@ Ye's greatest sound effects. All in one place.
 
 [projects-site]: http://sebastianpatron.com/projects
 [sebastianpatron-github-io]: https://github.com/seb-patron/seb-patron.github.io
-[photography-page]:http://localhost:4000/skills/3_photography/
+[photography-page]: http://sebastianpatron.com/skills/3_photography/
 [tachyons]: http://tachyons.io
 [twitter-clone]: https://github.com/seb-patron/ROR-Twitter-Clone
 [kanye-keyboard]: http://sebastianpatron.com/kanye-sounds/
