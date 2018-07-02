@@ -25,7 +25,20 @@ Stanford's Machine Learning course covers linear regression, logisitic regressio
 ##### Description: 
 Andrew Ng's newest Neural Networks and Deep Learning course covers the basics of implementing a neural network in python and numpy.
 
+## Sample Projects
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/udacity-sudoku/sudoku-solved-long.gif">
+</div>
+
+#### AI Sudoku Agent
+##### Link: [github][sudoku-agent]
+##### Description: 
+An AI that can play and solve Sudoku puzzles. Written in Python. [Read more here in my blog post][sudoku-blog-post].
+
 
 [stanford-coursera-certificate]: https://www.coursera.org/account/accomplishments/certificate/S6EQ477ALFAL
 [stanford-coursera-github]: https://github.com/seb-patron/machine-learning-stanford
 [neural-networks-deep-learning-certificate]:https://www.coursera.org/account/accomplishments/records/KN89WXZH2VK5
+[sudoku-agent]: https://github.com/seb-patron/AIND-Sudoku
+[sudoku-blog-post]: http://sebastianpatron.com/blog/2017/Sudoku-ai/
