@@ -24,17 +24,18 @@ Built with Jekyll and based off the al-folio theme. This is my personal website 
 #### Twitter Clone
 ##### Link: [github][twitter-clone]
 ##### Description: 
-Ye's greatest sound effects. All in one place.
+This project is a Twitter clone written in Ruby on Rails. The front end is styled with tachyons CSS. Some notable aspects of this project:
+- User accounts is handled with the Devise gem. I extended Devise to allow me to assign usernames.
 
 <div class="">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/skills/web-dev/kanye-keyboard.png" alt="" title="budapest"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/skills/web-dev/kanye-keyboard.png" alt="" title="Kanye Keyboard Screenshot"/>
 </div>
 
 #### Kanye Keyboard
 ##### Link: [github][kanye-keyboard]
 ##### Description: 
-This project is a Twitter clone written in Ruby on Rails. The front end is styled with tachyons CSS. Some notable aspects of this project:
-- User accounts is handled with the Devise gem. I extended Devise to allow me to assign usernames.
+Ye's greatest sound effects. All in one place.
+
 
 
 [projects-site]: http://sebastianpatron.com/projects
