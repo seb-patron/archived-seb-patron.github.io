@@ -2,7 +2,7 @@
 layout: page
 title: Web Development
 description: 
-img: /assets/img/skills/web-dev/ruby-on-rails.png
+img: /assets/img/skills/web-dev/ruby-on-rails2.png
 ---
 
 Web development has always been a passion of mine. While I am primarily a backend developer, I have recently begun to branch more into front end development. This blog is an example of some of that work, extended from a jekyll theme! If you want to see a website I designed entirely on my own, check out my projects page at [sebastianpatron.com/projects][projects-site].
@@ -26,6 +26,9 @@ Built with Jekyll and based off the al-folio theme. This is my personal website 
 ##### Description: 
 Ye's greatest sound effects. All in one place.
 
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/skills/web-dev/kanye-keyboard.png" alt="" title="budapest"/>
+</div>
 
 #### Kanye Keyboard
 ##### Link: [github][kanye-keyboard]
