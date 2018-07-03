@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning
 description: 
-img: /assets/img/skills/machine-learning/ml-icon.png
+img: /assets/img/skills/machine-learning/ml-icon-1x1.png
 ---
 
 Machine Learning is one of my passions and sub focuses within data science. I like to spend my free time reading up on new algorithms and practicing my skills on public datasets.

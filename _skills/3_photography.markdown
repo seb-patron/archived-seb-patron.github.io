@@ -2,7 +2,7 @@
 layout: page
 title: photography
 description: my personal photography
-img: /assets/img/skills/photography/icon-boat.jpg
+img: /assets/img/skills/photography/ship-in-ocean-1x1.jpg
 ---
 
 Images taken with a Sony A7, Ricoh GR II, or iPhone SE. Click or tap on an image to make it larger.

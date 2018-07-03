@@ -2,7 +2,7 @@
 layout: page
 title: Google Cloud
 description: 
-img: /assets/img/skills/google-cloud/google-cloud-icon.png
+img: /assets/img/skills/google-cloud/google-cloud-icon-1x1.png
 ---
 
 I am currently working towards becoming a Google Cloud Certified Professional Data Engineer. To help prepare for my certification, I have been working on projects and taking Google Cloud courses to pick up the necessary knowledge and skills needed.

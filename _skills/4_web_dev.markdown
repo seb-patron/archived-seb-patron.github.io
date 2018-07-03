@@ -2,7 +2,7 @@
 layout: page
 title: Web Development
 description: 
-img: /assets/img/skills/web-dev/ruby-on-rails2.png
+img: /assets/img/skills/web-dev/ruby-on-rails.png
 ---
 
 Web development has always been a passion of mine. While I am primarily a backend developer, I have recently begun to branch more into front end development. This blog is an example of some of that work, extended from a jekyll theme! If you want to see a website I designed entirely on my own, check out my projects page at [sebastianpatron.com/projects][projects-site].
