@@ -32,7 +32,7 @@ This project is a Twitter clone written in Ruby on Rails. The front end is style
 </div>
 
 #### Kanye Keyboard
-##### Link: [github][kanye-keyboard]
+##### Link: [http://sebastianpatron.com/kanye-sounds/][kanye-keyboard] | [github][kanye-keyboard-github]
 ##### Description: 
 Ye's greatest sound effects. All in one place.
 
@@ -44,3 +44,4 @@ Ye's greatest sound effects. All in one place.
 [tachyons]: http://tachyons.io
 [twitter-clone]: https://github.com/seb-patron/ROR-Twitter-Clone
 [kanye-keyboard]: http://sebastianpatron.com/kanye-sounds/
+[kanye-keyboard-github]: https://github.com/seb-patron/kanye-sounds
