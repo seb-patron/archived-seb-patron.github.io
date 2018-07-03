@@ -1,4 +1,4 @@
-@media only screen and (min-width: 813px)  {
+@media only screen and (min-width: 768px)  {
 .project {
     box-sizing: border-box;
     float: left;
@@ -14,10 +14,10 @@
 
         img {
             height: auto;
-            position: relative;
-                left: -25%;
-                top: -5%;
-            width: 500px;
+          //   position: relative;
+               //  left: -25%;
+               //  top: -5%;
+          //   width: 500px;
         }
 
         a {
@@ -58,7 +58,7 @@
 }
 }
 
-@media only screen and (max-width: 769px) and (min-width: 382px)  {
+@media only screen and (max-width: 767px) and (min-width: 382px)  {
      .project {
          box-sizing: border-box;
          float: left;
@@ -78,10 +78,10 @@
      
              img {
                  height: auto;
-                 position: relative;
+               //   position: relative;
                     //  left: -15%;
                     //  top: -5%;
-                 width: 350px;
+               //   width: 350px;
              }
      
              a {
@@ -149,10 +149,10 @@
      
              img {
                  height: auto;
-                 position: relative;
-                     left: -15%;
+               //   position: relative;
+                    //  left: -15%;
                     //  top: -5%;
-                 width: 500px;
+               //   width: 500px;
              }
      
              a {
@@ -162,17 +162,16 @@
                  width: 100%;
      
                  span {
-                     display: none;
-                     position: absolute;
-                     top: 0;
-                    //  left: 0;
-                     bottom: 0;
-                     margin-left: 20%;
-                    //  right: 0;
-                    //  padding: 1.5em;
-                     color: $grey-color-light;
-                    //  padding: 40px;
-                     text-align: center;
+                    display: none;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    bottom: 0;
+                    right: 0;
+                    padding: 1.5em;
+                    color: $grey-color-light;
+                    padding: 40px;
+                    text-align: center;
                      
      
                      h1 {
@@ -217,10 +216,10 @@
      
              img {
                  height: auto;
-                 position: relative;
-                     left: -30%;
+               //   position: relative;
+                    //  left: -30%;
                     //  top: -5%;
-                 width: 500px;
+               //   width: 500px;
              }
      
              a {
