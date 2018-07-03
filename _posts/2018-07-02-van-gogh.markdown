@@ -1,35 +1,48 @@
 ---
 layout: post
-title:  Van Gogh
+title:  Vincent Van Gogh and Dogs that Appreciate Art
 date: 2018-07-01 21:01:00
 description: Almond Blossom is life changing
 ---
-This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love while their. With a painting.
+This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting there.
 
 <div class="">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom.jpg" alt="" title="Mt. Humphreys, Flagstaff Arizona"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom.jpg" alt="" title="Almond Blossom painting by Vincent Van Gogh"/>
 </div>
 <div class="col three caption">
-    Almond Blossom by Vinvent Van Gogh.
+    Almond Blossom by Vincent Van Gogh.
 </div>
 
-I may have fallen too in love. Because I ended buying this painting for my dog to wear.
+And by "in love", I really mean obssessed. Really obssessed. So much so, that I bought the painting for my dog to wear. As a vest. Don't ask me why, I'm still trying to figure that out.
 
 <div class="">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/dog-vest.jpg" alt="" title="Mt. Humphreys, Flagstaff Arizona"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/dog-vest.jpg" alt="" title="Van Gogh's Almond Blossom as a dog vest"/>
 </div>
 <div class="col three caption">
-    Ok more like a dog vest.
+    Said vest.
 </div>
 
-While buying it, I got asked an important question by the cashier:
+Now, I know what you're thinking: Sebastian, on what planet is spending €40 on a Vincent Van Gogh vest for your dog acceptable? Unfortunately, if I had an answer for you, it would mean I wouldn't have had time to focus on more important problems. Like would my dog actually like the vest I bought him?
 
-what kind of dog do you have?
+No, I don't mean "would he like to wear it?" This is a non issue, Ralphy has already worn sweaters in the past and he never complained. Nor am I asking if it would look good on him. It's impossible for him not to look like a star in a Van Gogh.
 
-I misunderstood this question. 
+The question I'm asking is far deeper than any of these.
 
-I thought I was being asked if my dog liked this kind of art.
+Would Ralphy appreciate the genius of Van Gogh? Can Ralphy appreciate art at all? And if not, where can I aquire a dog that can appreciate art while also fitting my Van Gogh vest?
 
-It really made me think. Here I was, dropping 40 euro on a vest for my dog (that probably won't fit him), and I don't even know if he'll like it.
+<blockquote>
+Can you teach a dog to appreciate art?
+</blockquote>
 
-Can dogs appreciate art?
+You're probably wondering why, of all the things to do in Amsterdam, I choose to contemplate if my dog could be taught to appreciate art? For starters, let me show you who Ralphy is:
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/ralph-the-dog.jpg" alt="" title="Ralph the Dog"/>
+</div>
+<div class="col three caption">
+    Ralphy the dog.
+</div>
+
+Ralphy is a Vizsla mix. Basically he's supposed to be a big, bad ass hunting dog from Hungary. Instead genetics decided to screw him over and make him small and fragile. Sounds familiar...
+
+Ralphy is also pretty stupid. This isn't me picking on him, he genuinly is a pretty stupid dog. So you can see where my concerns on whether or not Ralphy even has the capacity to appreciate art started to come from.
