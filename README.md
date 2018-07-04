@@ -12,8 +12,8 @@ _includes and _layouts are the templates that make up my pages. The markdown fil
 
 The rest of the folders help support my website and take care of some more details. _sass contains my sass files, assets contains images, _data contains some additional data that fills out certain pages, etc.
 
-This blig is based on **al-folio**, which is based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features.
+This blog is based on **al-folio**, which is based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
+Over time, I gave the theme a couple of re-writes and added many additional cool features. For example, on the [photography page](http://sebastianpatron.com/skills/3_photography/) I created a custom javascript script and css that allows a user to click on an image to make it larger and give it a white background (you can see that code [here](https://github.com/seb-patron/seb-patron.github.io/blob/master/_skills/3_photography.markdown)).
 The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
 
 ## Contributing
@@ -26,3 +26,4 @@ Style improvements and bug fixes are especially welcome.
 MIT
 
 [sebastianpatron.com]: http://sebastianpatron.com
+[photography-page]: http://sebastianpatron.com/skills/3_photography/
