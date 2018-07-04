@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Sebastian Patron
-description: an enthusiast in life. data science experimenter. entrepreneur. 
+description: life enthusiast. data science experimenter. entrepreneur. 
 
 profile:
   align: right
