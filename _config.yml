@@ -33,7 +33,7 @@ blog_name: seb's blog
 blog_description: an enthusiast in life
 
 # Pagination
-paginate: 4
+paginate: 10
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
