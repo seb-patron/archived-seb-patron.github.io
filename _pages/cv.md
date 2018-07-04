@@ -1,6 +1,7 @@
 ---
 layout: about
 title: cv
+social: true
 permalink: /cv/
 description: <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a>. data science enthusiast. entrepreneur. 
 profile:
