@@ -2,7 +2,7 @@
 layout: post
 title: "living a value dense life"
 date: 2018-06-10 21:01:00
-image: /assets/img/value-filled-life/vision-board.jpg
+image: /assets/img/posts/value-filled-life/vision-board.jpg
 description: what does it mean to live a value dense life?
 comments: true
 ---

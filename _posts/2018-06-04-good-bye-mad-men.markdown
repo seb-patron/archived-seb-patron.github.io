@@ -3,7 +3,6 @@ layout: post
 title: good bye mad men, hello math men
 date: 2018-06-04 19:04:20 +0300
 description: why did the mad men become math men?
-img: time-to-think.jpg # Add image post (optional)
 comments: true
 ---
 
