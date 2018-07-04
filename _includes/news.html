@@ -6,9 +6,10 @@
                     
           <h2>Blog</h2>
           {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-          <table>
+          
                     
                {% for year in postsByYear %}
+               <table>
                <h3 id="{{ year.name }}-ref" style="font-weight: bold; color:black;" >{{year.name}}</h2>
                {% for post in year.items %}
                <tr>
