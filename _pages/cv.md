@@ -10,7 +10,6 @@ profile:
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <p>Sebastian Patron</p>
     <p><i class="fas fa-envelope"></i> <a href="mailto:spatrons@asu.edu?Subject=Hello%20again" target="_top">spatrons@asu.edu</a></p>
-    <p>Czech<i class="fas fa-phone"></i> <a href="tel:+420-774-309-052">+420-774-309-052</a></p>
     <p>US<i class="fas fa-phone"></i> <a href="tel:+1-701-446-7924">+1-701-446-7924</a></p>
     <p><i class="fab fa-github"></i> <a href="https://github.com/seb-patron">seb-patron</a></p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a></p>
@@ -24,9 +23,13 @@ profile:
 
      <p><h4>Tech Skills</h4>
      <strong>Languages</strong>
-     <br>Python, SQL, Javascript, Java
+     <br>Python, Ruby, SQL, Javascript, Java
+     <br>
+
      <br><strong>Frameworks/Libraries</strong> 
-     <br>Node.js, MongoDB, Google BigQuery, Pandas, Scikit-Learn
+     <br>Rails, Node.js, MongoDB, Google BigQuery, Pandas, Scikit-Learn
+     <br>
+
      <br><strong>Applications</strong>
      <br>Photoshop, Final Cut X, Adobe Premiere Pro, Microsoft Office
      </p>
@@ -41,12 +44,16 @@ profile:
       <br>reading
       <br>movies
       <br>travel
+      <br>photography
       <br> <br>
 ---
 <h4>Experience</h4>
 
-**Data Scientist, SpearmintLove; Tempe, AZ — August 2017-Present**
+**Jr. Data Scientist, SpearmintLove; Tempe, AZ — August 2017-Present**
 <br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in realtime.
+
+**Production Assistant, Pink Productions; Prague, Czech Republic — May 2018-July 2018**
+<br>As a production assistant at Pink Productions, a Czech film production company, I read and created treatments for scripts being considered for production, researched and helped write applications for funding from the Czech Film Fund, and helped write a visa application for a director creating a project in the EU.
 
 **Web Developer Intern, MyGovUSA; Tempe, AZ — May 2017-August 2017**
 <br>Developed and helped launch MyGovUSA’s website using Jekyll and Github Pages. Also helped create and develop a mobile strategy and designed new SQL based database for company records.
@@ -62,8 +69,8 @@ profile:
 
 <h4>Related Projects</h4>**Job Chirp​**
 <br>A Node.js project that uses IBM’s Watson AI to analyze tweets for indications that a User may be looking for a job. If they are, a conversation is started and basic profiles built about the user: <a href="https://github.com/seb-patron/TweetRecruiterJS">github​</a>
-<br>**Vulfify​**
-<br>A javascript web app that allows users to edit create pictures in the same style as the band Vulfpeck: ​<a href="https://github.com/seb-patron/Vulfify">github</a>
+<br>**Kanye Keyboard**
+<br>A javascript web app that allows you to play Kanye's most iconic sounds with the press of a key: ​<a href="http://sebastianpatron.com/kanye-sounds/">link</a> | <a href="https://github.com/seb-patron/Vulfify">github</a>
 <br>**Lispy​**
 <br>A Lisp interpreter that I am currently building in C: ​<a href="https://github.com/seb-patron/lispy-C">github</a>
 
