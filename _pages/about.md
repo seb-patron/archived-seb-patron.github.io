@@ -13,8 +13,9 @@ profile:
 news: true
 social: true
 ---
-My name is Sebastian Patron, and I am passionate about data. I firmly believe that the key to unlocking new sources of value for both businesses and individuals lies in the data they possess. In my work as a data scientists I have worked in both for-profit businesses and not-for-profit organizations. 
+My name is Sebastian Patron, and I am passionate about data, people, and hip hop music. There is nothing more exciting than using technology and data to help improve our everyday lives. I love thinking up new experiments, and testing them to see if my hypotheses are right.
 
-I spend my free time reading up on the newest data science technologies and learning new skills. I am currently working towards my Data Engineer Certification from google, and am working on putting together my own machine learning machine. I have a side project using predictive systems in combination with Facebook Business to improve ads. 
+When I’m not working, you can catch me outdoors kayaking or hiking, reading some classic science fiction, or learning about newest trends in data. I am currently working towards my Data Engineer Certification from google, and am working on putting together my own machine learning machine. Most recently, I have been brushing up on my Ruby on Rails skills.
 
-I love meeting new people and expanding my viewpoints. Currently I am studying in Prague over the summer. If you're interested in discussing data science or any other new technologies, don't hesitate to send me a message and let's get some coffee.
+I love meeting new people and learning new things, so please feel free to say hello and send me a <a href="mailto:seb@sebpatron.com?Subject=Hello%20again"> message here</a>! I am currently studying in Prague over the summer. 
+
