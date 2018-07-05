@@ -3,6 +3,7 @@ layout: post
 title:  Vincent Van Gogh and Dogs that Appreciate Art
 date: 2018-07-01 21:01:00
 description: Almond Blossom is life changing
+social: true
 ---
 This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting while there.
 
@@ -86,7 +87,17 @@ So this is a little hard to visualize with the image. Here's a side by side comp
     <a href="https://github.com/seb-patron/k-means-most-common-color">Find the code used to find these colors here.</a>
 </div>
 
-Ok so my dog can definitely 2 out of 3 of the most common colors in Almond Blossom. Not too bad. I would bet that if I ran K-Means longer and tried to find the 1 most common it would end up being cadet blue. The olive green makes things a bit trickier, but if you look closely you can that the branches tend to be outlined in black. My dog may not be able to distinguish all the colors, but it appears that he should be able to distinguish the shapes.
+Which in color blind mode, would look like this to a dog:
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-color-blind.png" alt="" title="Almond Blossom with the most common colors"/>
+</div>
+<div class="col three caption">
+    Almond Blossom in colorblind mode
+</div>
+
+Ok so my dog can definitely 2 out the 3 most common colors in Almond Blossom. Not too bad. I would bet that if I ran K-Means longer and tried to find the 1 most common it would end up being cadet blue. The olive green makes things a bit trickier, but if you look closely you can that the branches tend to be outlined in black. My dog may not be able to distinguish all the colors, but it appears that he should be able to distinguish the shapes.
+
+Next, we gotta figure out if dogs can recognize 2D images. Another google search actually led to a [pretty promising Quora][quora-2d-images] answer from my man (I don't actually know him) John Buginas.
 
 
 <style>
@@ -114,3 +125,4 @@ Ok so my dog can definitely 2 out of 3 of the most common colors in Almond Bloss
 [dogs-can-see-colors]: http://www.dailymail.co.uk/sciencetech/article-2374872/Dogs-CAN-colour-Scientists-dispel-myth-canines-black-white.html
 [jaden-eyes-tweet]: https://twitter.com/officialjaden/status/329768040235413504?lang=en
 [python-script]: https://github.com/seb-patron/k-means-most-common-color
+[quora-2d-images]: https://www.quora.com/Can-dogs-see-two-dimensional-images-such-as-photographs
