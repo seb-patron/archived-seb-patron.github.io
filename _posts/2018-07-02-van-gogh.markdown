@@ -4,7 +4,7 @@ title:  Vincent Van Gogh and Dogs that Appreciate Art
 date: 2018-07-01 21:01:00
 description: Almond Blossom is life changing
 ---
-This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting there.
+This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting while there.
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom.jpg" alt="" title="Almond Blossom painting by Vincent Van Gogh"/>
@@ -34,7 +34,11 @@ Would Ralphy appreciate the genius of Van Gogh? Can Ralphy appreciate art at all
 Can you teach a dog to appreciate art?
 </blockquote>
 
-You're probably wondering why, of all the things to do in Amsterdam, I choose to contemplate if my dog could be taught to appreciate art? For starters, let me show you who Ralphy is:
+You're probably wondering why, of all the things to do in Amsterdam, I would choose to waste my energy on if my dog could be taught to appreciate art? That's a pretty good question honestly. 
+
+Now that I think about it, I wish I knew the answer to that...
+
+But that's not what's important right now. What is important is if Ralphy can appreciate art. For starters, let me show you who Ralphy is:
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/ralph-the-dog.jpg" alt="" title="Ralph the Dog"/>
@@ -46,3 +50,64 @@ You're probably wondering why, of all the things to do in Amsterdam, I choose to
 Ralphy is a Vizsla mix. Basically he's supposed to be a big, bad ass hunting dog from Hungary. Instead genetics decided to screw him over and make him small and fragile. Sounds familiar...
 
 Ralphy is also pretty stupid. This isn't me picking on him, he genuinly is a pretty stupid dog. So you can see where my concerns on whether or not Ralphy even has the capacity to appreciate art started to come from.
+
+To start off, I feel as if it's important to find out whether or not dogs can even see color. A quick Google search led me [to this page][dogs-can-see-colors] which claims that dogs can indeed see colors. Somewhat.
+
+Appearntly dogs only have two kinds of cones in their eyes (photoreceptor cells that allow us to see color), compared to a humans three kinds. That means dogs can distinguish just blue and yellow, compared to a humans ability to distinguish blue, yellow, red, and green. Here's an image I stole from the site:
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/visible-spectrum.jpg" alt="" title="visible spectrum for dogs vs humans"/>
+</div>
+<div class="col three caption">
+    The color spectrum of humans vs dogs.
+</div>
+
+Whoa there. That looks pretty similar to the colors from Almond Blossom....
+
+Of course, as Descartes claims (or a true contemporary philosopher [like Jaden Smith][jaden-eyes-tweet]), our eyes can be deceiving. My eyes have lied to me before, so how can I trust them this time? Rather than risk it and take guess if Almond Blossom fits within a dogs visible spectrum, why not prove it?
+
+So obssessed me wrote a [python script that uses K-Means][python-script] to find the most common colors in Almond Blossom. K-Means is a great solution because it's fast and simple, allowing me to spend more time on the true matter at hand.
+
+And would you look at that, the results are pretty promising. Somewhat. According to my script, the top three colors in Almond blossom are:
+<ul>
+<li>silver, #bac6ae <div class="color-swatch silver"></div></li>
+<li>cadetblue', #77a1a2 <div class="color-swatch cadetblue"></div></li>
+<li>'darkolivegreen', #50634d <div class="color-swatch darkolivegreen"></div></li>
+</ul>
+
+So this is a little hard to visualize with the image. Here's a side by side comparison:
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-common-colors.jpg" alt="" title="Almond Blossom with the most common colors"/>
+</div>
+<div class="col three caption">
+    <a href="https://github.com/seb-patron/k-means-most-common-color">Find the code used to find these colors here.</a>
+</div>
+
+
+
+<style>
+.color-swatch {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+
+.darkolivegreen {
+  background: #50634d;
+}
+
+.silver {
+  background: #bac6ae;
+}
+
+.cadetblue {
+  background: #77a1a2;
+}
+</style>
+
+
+[dogs-can-see-colors]: http://www.dailymail.co.uk/sciencetech/article-2374872/Dogs-CAN-colour-Scientists-dispel-myth-canines-black-white.html
+[jaden-eyes-tweet]: https://twitter.com/officialjaden/status/329768040235413504?lang=en
+[python-script]: https://github.com/seb-patron/k-means-most-common-color
