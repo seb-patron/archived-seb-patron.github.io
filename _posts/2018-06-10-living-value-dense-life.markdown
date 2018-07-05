@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "living a value dense life"
+title: "Living a Value Dense Life"
 date: 2018-06-10 21:01:00
 image: /assets/img/posts/value-filled-life/vision-board.jpg
-description: what does it mean to live a value dense life?
-comments: true
+description: What does it mean to live a value dense life?
+comments: false
 ---
 <blockquote>
 	One of the best ways to stay true to yourself is to establish core values. What are you willing to do or not do along the way? What are you willing to accept or not accept? It's important to define your values and ethical standards to keep true to who you are at your core.

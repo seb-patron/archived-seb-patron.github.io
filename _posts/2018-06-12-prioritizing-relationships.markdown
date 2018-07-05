@@ -1,9 +1,9 @@
 ---
 layout: post
-title: prioritizing relationships
+title: Prioritizing Relationships
 date: 2018-06-12 07:32:45
 image: /assets/img/value-filled-life/vision-board.jpg
-description: how do you choose who to spend your time with?
+description: How do you choose who to spend your time with?
 ---
 
 How do you choose the people that matter in your life? Or better yet, how do you choose who to spend your time with?

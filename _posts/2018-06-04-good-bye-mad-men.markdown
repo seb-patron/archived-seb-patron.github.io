@@ -1,8 +1,8 @@
 ---
 layout: post
-title: good bye mad men, hello math men
+title: Good Bye Mad Men, Hello Math Men
 date: 2018-06-04 19:04:20 +0300
-description: why did the mad men become math men?
+description: Why did the mad men become math men?
 comments: true
 ---
 
