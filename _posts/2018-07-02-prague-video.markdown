@@ -2,7 +2,6 @@
 layout: post
 title: Digital Story
 date: 2018-07-02 17:40:49
-image: /assets/img/value-filled-life/vision-board.jpg
 description: My Final Prague Blog Post!
 ---
 

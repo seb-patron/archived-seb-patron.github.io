@@ -2,7 +2,7 @@
 layout: post
 title: Prioritizing Relationships
 date: 2018-06-12 07:32:45
-image: /assets/img/value-filled-life/vision-board.jpg
+image: /assets/img/posts/prioritizing-relationships/friends.jpg
 description: How do you choose who to spend your time with?
 ---
 

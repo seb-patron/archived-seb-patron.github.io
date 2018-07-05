@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Time to think
+title: Time to Think
 date: 2018-05-29 13:32:20 +0300
-description: prague and my blog theme
-img: time-to-think.jpg # Add image post (optional)
+description: A Journey to Prague
+image: /assets/img/time-to-think/time-to-think.jpg"
 comments: true
 ---
 <div class="img_row">

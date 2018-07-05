@@ -2,12 +2,10 @@
 layout: post
 title: "Intercausal Reasoning and Bayesian Networks"
 date: 2017-07-20
-image: /assets/bayes-theorem.png
-description: a review of the basics of bayesian networks
+image: /assets/img/intercausal/Bayes-Rule-Simple.png
+description: A review of the basics of bayesian networks
 comments: true
 ---
-**NOTE**: This is an example import from my peronal blog to show off the theme and how to write mathmatical equations in it.
-
 Over the past couple of weeks, I've been doing a review of statistics to help me better grasp some of the machine learning concepts I've been studying recently. That process of course led me back to Bayesian Networks, an important idea in machine learning, and also one I happenned to sort of skip out on back in class. In an effort to truly learn Statistics, this post will be a summary of some of the key ideas I have been reviewing.
 
 #### First, a Review of Bayesian Statistics
