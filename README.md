@@ -14,7 +14,10 @@ The rest of the folders help support my website and take care of some more detai
 
 This blog is based on **al-folio**, which is based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](http://liabogoev.com) and under the MIT license).
 Over time, I gave the theme a couple of re-writes and added many additional cool features. For example, on the [photography page](http://sebastianpatron.com/skills/3_photography/) I created a custom javascript script and css that allows a user to click on an image to make it larger and give it a white background (you can see that code [here](https://github.com/seb-patron/seb-patron.github.io/blob/master/_skills/3_photography.markdown)).
-The emphasis is on whitespace, transparency, and academic usage: [theme demo](https://alshedivat.github.io/al-folio/).
+
+Another example is making the theme more mobile friendly by resizing the skills and projects thumbnails depending on the user's view size ([code over here](https://github.com/seb-patron/seb-patron.github.io/blob/master/_sass/_projects.scss)).
+
+
 
 ## Contributing
 
