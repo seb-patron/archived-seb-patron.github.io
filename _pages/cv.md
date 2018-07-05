@@ -10,7 +10,7 @@ profile:
   address: >
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
     <p>Sebastian Patron</p>
-    <p><i class="fas fa-envelope"></i> <a href="mailto:seb@sebpatron.com?Subject=Hello%20again" target="_top">spatrons@asu.edu</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:seb@sebpatron.com?Subject=Hello%20again" target="_top">seb@sebpatron.com</a></p>
     <p>US<i class="fas fa-phone"></i> <a href="tel:+1-701-446-7924">+1-701-446-7924</a></p>
     <p><i class="fab fa-github"></i> <a href="https://github.com/seb-patron">seb-patron</a></p>
     <p><i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/sebastian-patron-3b523998">linkedin</a></p>
