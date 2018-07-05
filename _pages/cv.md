@@ -51,7 +51,7 @@ profile:
 <h4>Experience</h4>
 
 **Jr. Data Scientist, SpearmintLove; Tempe, AZ — August 2017-Present**
-<br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in realtime.
+<br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in real time.
 
 **Production Assistant, Pink Productions; Prague, Czech Republic — May 2018-July 2018**
 <br>As a production assistant at Pink Productions, a Czech film production company, I read and created treatments for scripts being considered for production, researched and helped write applications for funding from the Czech Film Fund, and helped write a visa application for a director creating a project in the EU.
