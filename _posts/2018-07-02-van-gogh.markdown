@@ -89,7 +89,7 @@ So this is a little hard to visualize with the image. Here's a side by side comp
 
 Which in color blind mode, would look like this to a dog:
 <div class="">
-    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-color-blind.png" alt="" title="Almond Blossom with the most common colors"/>
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-color-blind.jpg" alt="" title="Almond Blossom with the most common colors"/>
 </div>
 <div class="col three caption">
     Almond Blossom in colorblind mode
