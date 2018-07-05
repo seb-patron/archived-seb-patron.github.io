@@ -13,10 +13,10 @@ layout: default
     <li>
       <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
       <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}. ~{{ post.content | number_of_words | divided_by: 250}} minute read, {{ post.content | number_of_words }} words.</p>
+      <p>{{ post.description }}</p>
       {% if post.image %}
           <img class="col three" src="{{ site.baseurl }}{{ post.image}}">
       {% endif %}
-      <p>{{ post.description }}</p>
       <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
     </li>
   {% endfor %}
