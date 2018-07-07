@@ -68,8 +68,8 @@ profile:
 **Intern, Emerging Prairie; Fargo, ND — May 2014-August 2014**
 <br>As a team member of TEDxFargo and TEDxYouth @ Fargo planning committees, I contributed to improving the participants experience by scheduling pre event adventures allowing participants to explore our community and to connect with speakers and other participants in a meaningful way. I was also part of the weekly 1 Million Cups event and supported the event’s social media, photography, and general operations.
 
-<h4>Related Projects</h4>**Twitter Clone**
-<br>A twitter clone built on Ruby on Rails. Features Devise gem for authentication: ​<a href="https://github.com/seb-patron/ROR-Twitter-Clone">github</a>
+<h4>Related Projects</h4>**Instagram Clone**
+<br>An Instagram clone built on Ruby on Rails. Uses Devise gem for authentication, Active Storage for handling images, File_Validators gem to verify image type and size, and Tachyons CSS for styling: ​<a href="https://github.com/seb-patron/finstagram">github</a>
 
 **Kanye Keyboard**
 <br>A javascript web app that allows you to play Kanye's most iconic sounds with the press of a key: ​<a href="http://sebastianpatron.com/kanye-sounds/">link</a> | <a href="https://github.com/seb-patron/Vulfify">github</a>
