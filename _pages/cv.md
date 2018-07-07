@@ -72,7 +72,7 @@ profile:
 <br>An Instagram clone built on Ruby on Rails. Uses Devise gem for authentication, Active Storage for handling images, File_Validators gem to verify image type and size, and Tachyons CSS for styling: ​<a href="https://github.com/seb-patron/finstagram">github</a>
 
 **Kanye Keyboard**
-<br>A javascript web app that allows you to play Kanye's most iconic sounds with the press of a key: ​<a href="http://sebastianpatron.com/kanye-sounds/">link</a> | <a href="https://github.com/seb-patron/Vulfify">github</a>
+<br>A javascript web app that allows you to play Kanye's most iconic sounds with the press of a key: ​<a href="http://sebastianpatron.com/kanye-sounds/">link</a> | <a href="https://github.com/seb-patron/kanye-sounds">github</a>
 
 **Job Chirp​**
 <br>A Node.js project that uses IBM’s Watson AI to analyze tweets for indications that a User may be looking for a job. If they are, a conversation is started and basic profiles built about the user: <a href="https://github.com/seb-patron/TweetRecruiterJS">github​</a>
