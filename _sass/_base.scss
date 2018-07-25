@@ -30,6 +30,14 @@ body {
     @extend .clearfix;
 }
 
+.gradient {
+     height: 5px;
+     background: linear-gradient(to right, #CB00AB 0%, 
+     #A20F9B 20%, 
+     #CB00AB 52%, 
+     #A20F9B 80%, 
+     #CC00CC 100%)
+}
 // .page-content {
 //      background-color: #F8F8F8;
 // }
