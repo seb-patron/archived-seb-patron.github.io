@@ -4,7 +4,8 @@ title: Sudoku Solving AI Agent
 date: 2017-08-13
 image: /assets/img/udacity-sudoku/sudoku-solved-long.gif
 description: Solving sudoku puzzles with ai
-
+tag: programming
+public-tag: python
 ---
 Back in June, Udacity announced that they would be releasing the first project from the [Artificial Intellignce Nanodegree][udacity-ai] program for free for one week. Being as incredibly interested in AI as I was, I pounced on the opportunity to test out one of Udacity's premier programs. The goal of this post is to share my thoughts on the project, along with helping me reflect on what I learned.
 

@@ -4,6 +4,8 @@ title: Good Bye Mad Men, Hello Math Men
 date: 2018-06-04 19:04:20 +0300
 description: Why did the mad men become math men?
 comments: true
+tag: management
+public-tag: startups
 ---
 
 <div class="img_row">

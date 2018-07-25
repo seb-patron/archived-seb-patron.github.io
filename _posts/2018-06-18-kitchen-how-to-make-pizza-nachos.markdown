@@ -4,6 +4,8 @@ title: "In The Kitchen: How to make American Style Pizza Nachos"
 date: 2018-06-18 17:40:49
 image: /assets/img/posts/pizza-nachos/finished-pizza.jpg
 description: emphasis on the Aemerican Style
+tag: personal
+publictag: "pizza nachos"
 ---
 
 Greetings family.
