@@ -1,0 +1,35 @@
+.home-tag {
+     font-size: 10px;
+     display: inline-block;
+     border: 1px solid #dedede;
+     padding: 2px 2px 1px 2px;
+     border-radius: 2px;
+     line-height: 10px;
+     margin-left: 1px;
+ }
+
+.tag-management {
+     border-color: #929aff;
+     color: #929aff;
+ }
+
+ .tag-programming {
+     border-color: #ff9292;
+     color: #ff9292;
+ }
+
+ .tag-coaching {
+     border-color: #4ec698;
+     color: #4ec698;
+ }
+
+ .tag-personal {
+     border-color: #4ec698;
+     color: #4ec698;
+ }
+
+ .tag-math {
+     border-color: $theme-color;
+     color:$theme-color;
+ }
+
