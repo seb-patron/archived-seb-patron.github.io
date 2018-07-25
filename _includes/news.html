@@ -16,6 +16,9 @@
                     <td class="date">{{ post.date | date: '%B %-d' }}</td>
                     <td class="announcement">
                          <a class="news-title" href="{{ post.url }}">{{ post.title }}</a>
+                         {%capture public_tag%}{% if post.publictag %}{{post.publictag}}{% else %}{{ post.tag }}{% endif %}{%endcapture%}
+                         {%capture tag%}{% if post.tag %}{{post.tag}}{% else %}{{ personal }}{% endif %}{%endcapture%}
+                         <span class="home-tag tag-{{tag | downcase | remove: " "}}">{{public_tag}}</span>
                     </td>
                </tr>
                <div style="display:block; line-height:1.5; margin-block-start: 1em;margin-block-end: 1.20em;">
