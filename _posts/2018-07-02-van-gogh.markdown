@@ -7,6 +7,7 @@ image: /assets/img/posts/van-gogh/almond-blossom.jpg
 social: true
 tag: personal
 publictag: humor
+relatedposts: true
 ---
 This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting while there.
 

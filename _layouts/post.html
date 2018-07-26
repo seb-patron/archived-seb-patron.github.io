@@ -13,6 +13,9 @@ layout: default
   <article class="post-content">
     {{ content }}
   </article>
+     {% if page.relatedposts %}
+          {% include relatedposts.html %}
+     {% endif %}
 
   {% if site.disqus_shortname and page.comments %}
     <div id="disqus_thread"></div>
