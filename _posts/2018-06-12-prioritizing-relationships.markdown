@@ -5,6 +5,7 @@ date: 2018-06-12 07:32:45
 image: /assets/img/posts/prioritizing-relationships/friends.jpg
 description: How do you choose who to spend your time with?
 tag: personal
+social: true
 ---
 
 How do you choose the people that matter in your life? Or better yet, how do you choose who to spend your time with?

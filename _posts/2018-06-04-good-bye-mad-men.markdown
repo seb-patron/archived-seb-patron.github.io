@@ -6,6 +6,7 @@ description: Why did the mad men become math men?
 comments: true
 tag: management
 public-tag: startups
+social: true
 ---
 
 <div class="img_row">

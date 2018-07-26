@@ -5,6 +5,7 @@ date: 2018-06-10 21:01:00
 image: /assets/img/posts/value-filled-life/vision-board.jpg
 description: What does it mean to live a value dense life?
 comments: false
+social: true
 tag: personal
 ---
 <blockquote>

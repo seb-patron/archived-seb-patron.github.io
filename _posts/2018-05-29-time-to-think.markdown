@@ -5,6 +5,7 @@ date: 2018-05-29 13:32:20 +0300
 description: A Journey to Prague
 image: /assets/img/time-to-think/time-to-think.jpg"
 comments: true
+social: true
 tag: personal
 ---
 <div class="img_row">
