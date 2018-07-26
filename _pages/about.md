@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Sebastian Patron
-description: life enthusiast. data science experimenter. entrepreneur. 
+description: I'm a Ruby developer/Full Stack Engineer at a startup. I blog about software engineering, management and whatever happens to cross my mind.
 
 profile:
   align: right

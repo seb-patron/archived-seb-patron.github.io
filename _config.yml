@@ -30,7 +30,9 @@ google_analytics: UA-120820904-1 # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: seb's blog
-blog_description: an enthusiast in life
+blog_description: "Blog with articles about programming, startups, philosophy and more."
+# OLD DESCRIPTION:
+# an enthusiast in life
 
 # Pagination
 paginate: 10
