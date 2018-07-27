@@ -18,7 +18,7 @@ This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in
     Almond Blossom by Vincent Van Gogh.
 </div>
 
-And by "in love", I really mean obssessed. Really obssessed. So much so, that I bought the painting for my dog to wear. As a vest. Don't ask me why, I'm still trying to figure that out.
+And by "in love", I really mean obsessed. Really obsessed. So much so, that I bought the painting for my dog to wear. As a vest. Don't ask me why, I'm still trying to figure that out.
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/dog-vest.jpg" alt="" title="Van Gogh's Almond Blossom as a dog vest"/>
@@ -33,7 +33,7 @@ No, I don't mean "would he like to wear it?" This is a non issue, Ralphy has alr
 
 The question I'm asking is far deeper than any of these.
 
-Would Ralphy appreciate the genius of Van Gogh? Can Ralphy appreciate art at all? And if not, where can I aquire a dog that can appreciate art while also fitting my Van Gogh vest?
+Would Ralphy appreciate the genius of Van Gogh? Can Ralphy appreciate art at all? And if not, where can I acquire a dog that can appreciate art while also fitting my Van Gogh vest?
 
 <blockquote>
 Can you teach a dog to appreciate art?
@@ -54,13 +54,13 @@ But that's not what's important right now. What is important is if Ralphy can ap
 
 Ralphy is a Vizsla mix. Basically he's supposed to be a big, bad ass hunting dog from Hungary. Instead genetics decided to screw him over and make him small and fragile. Sounds familiar...
 
-Ralphy is also pretty stupid. This isn't me picking on him, he genuinly is a pretty stupid dog. So you can see where my concerns on whether or not Ralphy even has the capacity to appreciate art started to come from.
+Ralphy is also pretty stupid. This isn't me picking on him, he genuinely is a pretty stupid dog. So you can see where my concerns on whether or not Ralphy even has the capacity to appreciate art started to come from.
 
-A quick google search led me to [this quora question][quora-q] filled with speculation and haters. Not very promising. We're gonna have to actually do work to figure this out. Ugh.
+A quick google search led me to [this Quora question][quora-q] filled with speculation and haters. Not very promising. We're gonna have to actually do work to figure this out. Ugh.
 
 To start off, I feel as if it's important to find out whether or not dogs can even see color. A quick Google search led me [to this page][dogs-can-see-colors] which claims that dogs can indeed see colors. Somewhat.
 
-Appearntly dogs only have two kinds of cones in their eyes (photoreceptor cells that allow us to see color), compared to a humans three kinds. That means dogs can distinguish just blue and yellow, compared to a humans ability to distinguish blue, yellow, red, and green. Here's an image I stole from the site:
+Apparently dogs only have two kinds of cones in their eyes (photoreceptor cells that allow us to see color), compared to a humans three kinds. That means dogs can distinguish just blue and yellow, compared to a humans ability to distinguish blue, yellow, red, and green. Here's an image I stole from the site:
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/visible-spectrum.jpg" alt="" title="visible spectrum for dogs vs humans"/>
@@ -73,7 +73,7 @@ Whoa there. That looks pretty similar to the colors from Almond Blossom....
 
 Of course, as Descartes claims (or a true contemporary philosopher [like Jaden Smith][jaden-eyes-tweet]), our eyes can be deceiving. My eyes have lied to me before, so how can I trust them this time? Rather than risk it and take guess if Almond Blossom fits within a dogs visible spectrum, why not prove it?
 
-So obssessed me wrote a [python script that uses K-Means][python-script] to find the most common colors in Almond Blossom. K-Means is a great solution because it's fast and simple, allowing me to spend more time on the true matter at hand.
+So obsessed me wrote a [python script that uses K-Means][python-script] to find the most common colors in Almond Blossom. K-Means is a great solution because it's fast and simple, allowing me to spend more time on the true matter at hand.
 
 And would you look at that, the results are pretty promising. Somewhat. According to my script, the top three colors in Almond blossom are:
 <ul>
@@ -101,19 +101,19 @@ Which in color blind mode, would look like this to a dog:
 
 Not only does Almond Blossom still remain easily distinguishable, the most common colors within it also stay distinguishable. Without a doubt, even a really dumb dog like mine can make out the different colors in this masterpiece.
 
-So, feeling confident that my dog can tell the different colors in Almond Blossom, it's probably a good idea to now try to figure out if he can even recongnize a painting. Another google search actually led to a [pretty promising Quora][quora-2d-images] answer from my boy (I don't actually know him) John Buginas. My boy John says that dogs can in fact recognize a flat image.
+So, feeling confident that my dog can tell the different colors in Almond Blossom, it's probably a good idea to now try to figure out if he can even recognize a painting. Another google search actually led to a [pretty promising Quora][quora-2d-images] answer from my boy (I don't actually know him) John Buginas. My boy John says that dogs can in fact recognize a flat image.
 
 If that flat image is of [their owner's face][dogs-recognize-owner-in-pic].
 
 Ok, ok, it's not all that bad. Dogs can recognize 2d images with faces, but they spend more time on familiar faces, such as those of their owners. So all I need to do is trick Ralphy into thinking that Almond Blossom is a picture of me so that he spends more time on it, and therefor, enjoys it.
 
-This may seem tricky at first, but luckily I am a photoshop wizard.
+This may seem tricky at first, but luckily I am a Photoshop wizard.
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-my-face.jpg" alt="" title="Almond Blossom with my face shopped in"/>
 </div>
 <div class="col three caption">
-    My face subtly photoshopped into Almond Blossom.
+    My face subtly Photoshopped into Almond Blossom.
 </div>
 
 With the perfect proportions of my face, yet subtle enough that one can still enjoy the art, I have created the ultimate trap for my dog. Subconsciously, he will recognize my face in the image, and therefor stare longer at it. His longer stare will likely cause a deep, highly emotional response of appreciation for the masterpiece that Almond Blossom is. And as he moves to tears, I will have undeniable proof that he can indeed, appreciate art.
