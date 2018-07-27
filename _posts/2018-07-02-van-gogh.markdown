@@ -99,10 +99,24 @@ Which in color blind mode, would look like this to a dog:
     Almond Blossom in colorblind mode
 </div>
 
-Ok so my dog can definitely 2 out the 3 most common colors in Almond Blossom. Not too bad. I would bet that if I ran K-Means longer and tried to find the 1 most common it would end up being cadet blue. The olive green makes things a bit trickier, but if you look closely you can that the branches tend to be outlined in black. My dog may not be able to distinguish all the colors, but it appears that he should be able to distinguish the shapes.
+Not only does Almond Blossom still remain easily distinguishable, the most common colors within it also stay distinguishable. Without a doubt, even a really dumb dog like mine can make out the different colors in this masterpiece.
 
-Next, we gotta figure out if dogs can recognize 2D images. Another google search actually led to a [pretty promising Quora][quora-2d-images] answer from my man (I don't actually know him) John Buginas.
+So, feeling confident that my dog can tell the different colors in Almond Blossom, it's probably a good idea to now try to figure out if he can even recongnize a painting. Another google search actually led to a [pretty promising Quora][quora-2d-images] answer from my boy (I don't actually know him) John Buginas. My boy John says that dogs can in fact recognize a flat image.
 
+If that flat image is of [their owner's face][dogs-recognize-owner-in-pic].
+
+Ok, ok, it's not all that bad. Dogs can recognize 2d images with faces, but they spend more time on familiar faces, such as those of their owners. So all I need to do is trick Ralphy into thinking that Almond Blossom is a picture of me so that he spends more time on it, and therefor, enjoys it.
+
+This may seem tricky at first, but luckily I am a photoshop wizard.
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/almond-blossom-my-face.jpg" alt="" title="Almond Blossom with my face shopped in"/>
+</div>
+<div class="col three caption">
+    My face subtly photoshopped into Almond Blossom.
+</div>
+
+With the perfect proportions of my face, yet subtle enough that one can still enjoy the art, I have created the ultimate trap for my dog. Subconsciously, he will recognize my face in the image, and therefor stare longer at it. His longer stare will likely cause a deep, highly emotional response of appreciation for the masterpiece that Almond Blossom is. And as he moves to tears, I will have undeniable proof that he can indeed, appreciate art.
 
 <style>
 .color-swatch {
@@ -130,3 +144,4 @@ Next, we gotta figure out if dogs can recognize 2D images. Another google search
 [jaden-eyes-tweet]: https://twitter.com/officialjaden/status/329768040235413504?lang=en
 [python-script]: https://github.com/seb-patron/k-means-most-common-color
 [quora-2d-images]: https://www.quora.com/Can-dogs-see-two-dimensional-images-such-as-photographs
+[dogs-recognize-owner-in-pic]: https://www.researchgate.net/publication/259201806_How_dogs_scan_familiar_and_inverted_faces_An_eye_movement_study
