@@ -6,7 +6,6 @@ description: Almond Blossom is life changing
 image: /assets/img/posts/van-gogh/almond-blossom.jpg
 social: true
 tag: personal
-publictag: humor
 relatedposts: true
 ---
 This past weekend, I had the opportunity to visit the Vincent Van Gogh Museum in Amsterdam. The visit was pretty life changing. In fact, I actually fell in love with a painting while there.
@@ -117,6 +116,21 @@ This may seem tricky at first, but luckily I am a Photoshop wizard.
 </div>
 
 With the perfect proportions of my face, yet subtle enough that one can still enjoy the art, I have created the ultimate trap for my dog. Subconsciously, he will recognize my face in the image, and therefor stare longer at it. His longer stare will likely cause a deep, highly emotional response of appreciation for the masterpiece that Almond Blossom is. And as he moves to tears, I will have undeniable proof that he can indeed, appreciate art.
+
+With all that said and done, it was time to discover if Ralphy could indeed appreciate art. Wrangling him up turned out to be a bit trickier than what I first thought. Being a 4 legged mammal, Ralphy is fairly agile, and he outmaneuvered my attempts to sit him in front of my laptop. Yet in the end, with the help of a pepperoni flavored dog treat, I proved successful!
+
+Sitting him on my bed, I asked Ralphy what he thought about Almond Blossom. His response was... alright I guess?
+
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/van-gogh/scared-ralph.jpg" alt="" title="Ralphy not appreciating Almond Blossom"/>
+</div>
+<div class="col three caption">
+    :flushed: :dog:
+</div>
+
+Ralphy didn't really seem to like staring at Almond Blossom. In fact, if I weren't such an expert in Ralphy's behavior, I might even say he looked distressed and emotionally vulnerable upon looking at my picture. Luckily though, I am an expert, and Ralphy's behavior is inconclusive. At the current moment, the only idea I have left is to start going through flash cards with him until he becomes smarter. It may be possible that boosting his analytic skills will boost artistic skills too.
+
+In the meantime though, he doesn't appreciate art.
 
 <style>
 .color-swatch {
