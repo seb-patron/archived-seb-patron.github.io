@@ -9,6 +9,10 @@ tag: programming
 relatedposts: true
 ---
 
+<div class="">
+    <img class="col three" src="{{ site.baseurl }}/assets/img/posts/rails-testing-2018/cucumber-screenshot.png" alt="" title="Rspec for unit testing"/>
+</div>
+
 2018 has been a big year for me. I picked up some real experience with an internship in web development. I went to Europe. I got to partake in shooting a documentary in Prague. I learned about the beauty of pizza nachos. And I finally decided to start testing my code.
 
 Yeah, I know pretty crazy. As a staunch supported of [cowboy coding][cowboy-coding], the move to actually planning and writing good code (whatever that means) was a difficult one. But as I started to take Rails development seriously, I quickly realized the importance of writing good tests. In fact, it was after internship project that didn't involve any tests that I realized just how great tests are. Seriously, it sucks merging in code from a bunch different branches and then realizing something broke somewhere and you're spending the rest of your day digging through branches to find out what exactly broke that you realize you want to write tests.
