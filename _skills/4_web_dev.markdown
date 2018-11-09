@@ -14,7 +14,7 @@ Below are some sample projects I have done!
 #### sebastianpatron.com
 ##### Link: [github][sebastianpatron-github-io]
 ##### Description:
-Built with Jekyll and based off the al-folio theme. This is my personal website and blog. You can see an example of some of the modifications I did in my [photography page][photography-page], where I wrote a custome script that allows you to click on an image to enlarge it. Go ahead and explore my site's codebase here [github][sebastianpatron-github-io].
+Built with Jekyll and based off the al-folio theme. This is my personal website and blog. You can see an example of some of the modifications I did on my [photography page][photography-page], where I wrote some JavaScript that allows you to click on an image to enlarge it. Go ahead and explore my site's codebase here [github][sebastianpatron-github-io].
 
 
 <div class="">
@@ -24,7 +24,7 @@ Built with Jekyll and based off the al-folio theme. This is my personal website 
 #### Twitter Clone
 ##### Link: [github][twitter-clone]
 ##### Description: 
-This project is a Twitter clone written in Ruby on Rails. The front end is styled with tachyons CSS. Some notable aspects of this project:
+This project is a Twitter clone written in Ruby on Rails. The front end is styled with Tachyons CSS. Some notable aspects of this project:
 - User accounts is handled with the Devise gem. I extended Devise to allow me to assign usernames.
 
 <div class="">

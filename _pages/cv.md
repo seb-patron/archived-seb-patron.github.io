@@ -19,7 +19,7 @@ profile:
     <h4>education:</h4>
       <p><strong><i class="fas fa-graduation-cap"></i></strong>
       <br>Arizona State University
-      <br>2015 - 2018
+      <br>2015 - 2019
       <br>
 
      <p><h4>Tech Skills</h4>

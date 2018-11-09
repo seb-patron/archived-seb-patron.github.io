@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photography
+title: Photography
 description: my personal photography
 img: /assets/img/skills/photography/ship-in-ocean-1x1.jpg
 ---
