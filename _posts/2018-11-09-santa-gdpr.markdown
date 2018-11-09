@@ -13,7 +13,7 @@ relatedposts: true
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/santa-gdpr/94b0wsric9x11.jpg" alt="" title="Santa is in big trouble"/>
 </div>
 <div class="col three caption">
-    He knows if you've been bad or good so consent to tracking for goodness sake.
+    He knows if you've been bad or good so consent to tracking for goodness sake. Courtesy of [Reddit][reddit-printout].
 </div>
 
 He sees your location when you're sleeping. He knows when your phone is awake. He knows if you liked your friend's most recent instagram post or not and put that into a big data Hadoop cluster that predicts the most relevant content that will extend your app usage by 2 minutes and 17 seconds.
@@ -97,14 +97,14 @@ Closing thoughts: I need to find a new hobby.
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/santa-gdpr/naughty-nice-slaneconz_large.jpg" alt="" title="Santa watching us"/>
 </div>
 <div class="col three caption">
-    Santa's Village- Rovaniemi, Finland
+    The real Santa uses a Tensorflow Neural Network to predict naughty or good.
 </div>
 <hr />
 <br>
 <br>
 
 
-
+[reddit-printout]: https://www.reddit.com/r/datascience/comments/9vihdt/gdpr_you_cant_even_make_a_list/
 [sites-blocking-eu-users]: http://www.niemanlab.org/2018/08/more-than-1000-u-s-news-sites-are-still-unavailable-in-europe-two-months-after-gdpr-took-effect/
 [article-12]: https://gdpr-info.eu/art-12-gdpr/
 [article-13]: https://gdpr-info.eu/art-13-gdpr/
