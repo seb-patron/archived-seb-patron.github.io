@@ -18,7 +18,7 @@ relatedposts: true
 
 He sees your location when you're sleeping. He knows when your phone is awake. He knows if you liked your friend's most recent instagram post or not and put that into a big data Hadoop cluster that predicts the most relevant content that will extend your app usage by 2 minutes and 17 seconds.
 
-Santa is tracking your location and if he's as good as they say he is he's probably working at Facebook's big data department.
+Santa is tracking your location, and if he's as good as they say he is, he's probably working at Facebook's big data department.
 
 This wouldn't really be much of a problem if Santa lived outside of the EU. Maybe somewhere like the North Pole. Then he could just [take the easy route and block all EU users][sites-blocking-eu-users] from receiving gifts.
 
@@ -31,7 +31,7 @@ Recently however, I have been informed that Santa's Village is in fact located i
     Santa's Village- Rovaniemi, Finland
 </div>
 
-Ignoring why of all places Santa choose Finland (someone with that level of surveillance tech is obviously headquartered in the Valley or manufacturing dreamland like Guangzhou), Santa has some answers he has to give- seriously. According to Articles [12][article-12] and [13][article-13] of GDPR, Santa must disclose all information he has gathered on us when requested.
+Ignoring why of all places Santa choose Finland (someone with that level of surveillance tech is obviously headquartered in the Valley or a manufacturing dreamland like Guangzhou), Santa has some answers he has to give- seriously. According to Articles [12][article-12] and [13][article-13] of GDPR, Santa must disclose all information he has gathered on us when requested.
 
 He's also not supposed to be gathering any of our data without explicit consent. And I don't remember consenting to all of Santa's tracking.
 
@@ -71,7 +71,7 @@ Santa not only tells us *explicitly* that he is collecting our data in this vers
 
 Of course, maybe you're not convinced that Santa's alibi is tight. Maybe you were on the naughty list and Santa brought you coal and you never consented to being tracked just to get coal. 
 
-Well, you're still out of luck. He may go by Santa now, but his real name is Nicholas. Saint Nicholas, and he's a catholic bishop. And according to /u/Molot's answer, religious organizations are exempt from GDPR:
+Well, you're still out of luck. He may go by Santa now, but his real name is Nicholas- Saint Nicholas, and he's a catholic bishop. And according to /u/Molot's answer, religious organizations are exempt from GDPR:
 
 <blockquote>
 The new Regulation will maintain the existing exemption which allows churches and other bodies with a 'religious... aim' to process sensitive data:
