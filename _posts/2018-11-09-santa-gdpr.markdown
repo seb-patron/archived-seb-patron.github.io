@@ -13,7 +13,7 @@ relatedposts: true
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/santa-gdpr/94b0wsric9x11.jpg" alt="" title="Santa is in big trouble"/>
 </div>
 <div class="col three caption">
-    He knows if you've been bad or good so consent to tracking for goodness sake. Courtesy of [Reddit][reddit-printout].
+    He knows if you've been bad or good so consent to tracking for goodness sake. Courtesy of <a href="https://www.reddit.com/r/datascience/comments/9vihdt/gdpr_you_cant_even_make_a_list/">Reddit</a>.
 </div>
 
 He sees your location when you're sleeping. He knows when your phone is awake. He knows if you liked your friend's most recent instagram post or not and put that into a big data Hadoop cluster that predicts the most relevant content that will extend your app usage by 2 minutes and 17 seconds.
