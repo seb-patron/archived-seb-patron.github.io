@@ -37,7 +37,7 @@ He's also not supposed to be gathering any of our data without explicit consent.
 
 Now I'm not an expert in international privacy laws. In fact, I'm not an expert in anything. I do know how to program however. And just like every programmer out there, whenever I don't know the answer to something and can't bullshit my way out, I stack overflow it.
 
-Or stackexchange it. Whatever they're basically the same thing. Luckily, somebody much smarter (and way more time to waste believe or not) [wrote an excellent answer][stackexchange-answer] regarding Santa's potential violation of the General Data Protection Regulation.
+Or stackexchange it. Whatever they're basically the same thing. Luckily, somebody much smarter (and with even more time to waste believe or not) [wrote an excellent answer][stackexchange-answer] regarding Santa's potential violation of the General Data Protection Regulation.
 
 The answer is kinda interesting. User /u/Giter claims that Santa's surveillance is not only compliant with GDPR standards; /u/Giter claims that Santa *does a better job than even most tech companies*. For example:
 
@@ -103,7 +103,7 @@ Closing thoughts: I need to find a new hobby.
 
 <hr />
 
-Hey there! Thanks for reading this post! My name is Sebastian, I'm a Junior Psychology major at ASU turned Software Engineer. I've done quite a few wacky things including working at a Czech film production company, helping work on TEDx events, and most recently a Data Scientist turned Software Engineer Intern at a startup. I'm always looking for new opportunities, so if you like what you've read and happen to know of any Data Science/Software Engineering opportunities, please send them over to <a href="mailto:seb@sebpatron.com">seb@sebpatron.com</a>. Or just drop an email and say hi!
+Hey there! Thanks for reading this post! My name is Sebastian, I'm a Junior Psychology major at ASU turned Software Engineer. I've done quite a few wacky things including working at a Czech film production company, helping work on TEDx events, and most recently a Data Scientist turned Software Engineer Intern at a startup. If you're interested, you can checkout [my resume over here][resume], or [browse my github here][github]. I'm always looking for new opportunities, so if you like what you've read and happen to know of any Data Science/Software Engineering opportunities, please send them over to <a href="mailto:seb@sebpatron.com">seb@sebpatron.com</a>. Or just drop an email and say hi!
 
 [reddit-printout]: https://www.reddit.com/r/datascience/comments/9vihdt/gdpr_you_cant_even_make_a_list/
 [sites-blocking-eu-users]: http://www.niemanlab.org/2018/08/more-than-1000-u-s-news-sites-are-still-unavailable-in-europe-two-months-after-gdpr-took-effect/
@@ -111,3 +111,5 @@ Hey there! Thanks for reading this post! My name is Sebastian, I'm a Junior Psyc
 [article-13]: https://gdpr-info.eu/art-13-gdpr/
 [stackexchange-answer]: https://worldbuilding.stackexchange.com/questions/114033/how-can-santa-keep-his-lists-when-the-gdpr-is-around
 [startup-cult]: https://www.wired.com/2014/09/run-startup-like-cult-heres/
+[resume]: http://sebastianpatron.com/cv/
+[github]: https://github.com/seb-patron
