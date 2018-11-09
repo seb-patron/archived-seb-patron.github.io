@@ -91,7 +91,6 @@ So much for separation of church and state...
 
 The verdict? Well first off, for a dude who breaks and enters into millions of homes once per year, Santa is really good at following GDPR law. Second, if I were startup I would try reorganizing as a religious organization. A good startup is already [supposed to be a cult][startup-cult], so it shouldn't be that hard to add a religious component in too.
 
-Closing thoughts: I need to find a new hobby.
 
 <div class="">
     <img class="col three" src="{{ site.baseurl }}/assets/img/posts/santa-gdpr/naughty-nice-slaneconz_large.jpg" alt="" title="Santa watching us"/>
@@ -99,10 +98,12 @@ Closing thoughts: I need to find a new hobby.
 <div class="col three caption">
     The real Santa uses a Tensorflow Neural Network to predict naughty or good.
 </div>
-<hr />
-<br>
-<br>
 
+Closing thoughts: I need to find a new hobby.
+
+<hr />
+
+Hey there! Thanks for reading this post! My name is Sebastian, I'm a Junior Psychology major at ASU turned Software Engineer. I've done quite a few wacky things including working at a Czech film production company, helping work on TEDx events, and most recently a Data Scientist turned Software Engineer Intern at a startup. I'm always looking for new opportunities, so if you like what you've read and happen to know of any Data Science/Software Engineering opportunities, please send them over to <a href="mailto:seb@sebpatron.com">seb@sebpatron.com</a>. Or just drop an email and say hi!
 
 [reddit-printout]: https://www.reddit.com/r/datascience/comments/9vihdt/gdpr_you_cant_even_make_a_list/
 [sites-blocking-eu-users]: http://www.niemanlab.org/2018/08/more-than-1000-u-s-news-sites-are-still-unavailable-in-europe-two-months-after-gdpr-took-effect/

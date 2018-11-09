@@ -29,8 +29,8 @@ google_analytics: UA-120820904-1 # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: seb's blog
-blog_description: "Blog with articles about programming, startups, philosophy and more."
+blog_name: thoughts
+blog_description: "Some thoughts about programming, startups, philosophy and the absurd."
 # OLD DESCRIPTION:
 # an enthusiast in life
 
