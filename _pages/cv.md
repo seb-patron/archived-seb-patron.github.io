@@ -50,7 +50,7 @@ profile:
 ---
 <h4>Experience</h4>
 
-**Jr. Data Scientist, SpearmintLove; Tempe, AZ — August 2017-Present**
+**Data Scientist Intern, SpearmintLove; Tempe, AZ — August 2017-Present**
 <br>As a data scientist at SpearmintLove, I help the e-commerce team develop and test new marketing campaigns to help drive revenue. My work has included segmenting customers into groups for Facebook Audiences, helping create and monitor success and tracking metrics, and working on predictive systems to improve ad bidding and estimated success in real time.
 
 **Production Assistant, Pink Productions; Prague, Czech Republic — May 2018-July 2018**
